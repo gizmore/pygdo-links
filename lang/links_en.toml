@@ -1,1 +1,7 @@
 module_links = "Links"
+msg_link_detected = "Link detected: %s - %s - spread with %slinks.up %s"
+err_link_unavailable = "This link is unavailable."
+msg_link_spread = "Good link: %s - %s - %s - %s upvotes. Vote with %slinks.up %s"
+msg_link_moderated = "Link %s moderation state updated."
+msg_link_deleted = "Link %s permanently deleted."
+err_link_delete_confirm = "Use --confirm=1 to permanently delete this link."
